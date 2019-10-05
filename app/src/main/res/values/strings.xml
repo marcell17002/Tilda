@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tilda</string>
+    <string name="self_improve">Self Improvement</string>
+    <string name="kembangkan_kemampuanmu_disini">Kembangkan kemampuanmu disini</string>
+    <string name="english_conv">English Challenge</string>
+    <string name="tscdc_unpad">TSCDC UNPAD</string>
+    <string name="lowongan_kerja">Lowongan Kerja</string>
+    <string name="cari_lowongan_berdasarkan_kategori">Cari lowongan berdasarkan kategori</string>
+    <string name="link">https://tilda-01.firebaseapp.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
